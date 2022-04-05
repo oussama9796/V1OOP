@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.junit.jupiter:junit-jupiter:5.4.2" level="project" />
     <orderEntry type="library" name="org.junit.jupiter:junit-jupiter:5.8.2" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-fxml:17.0.2" level="project" />
   </component>
 </module>
