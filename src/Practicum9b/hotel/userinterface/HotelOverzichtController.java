@@ -39,6 +39,7 @@ public class HotelOverzichtController {
         toonBoekingen();
     }
 
+
     public void toonVolgendeDag(ActionEvent actionEvent) {
         LocalDate dagLater = overzichtDatePicker.getValue().plusDays(1);
         overzichtDatePicker.setValue(dagLater);
