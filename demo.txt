@@ -1,0 +1,5 @@
+Demonstratie van schrijven naar file
+8-4-2020
+
+7 x 9 = 63
+12345.6789
